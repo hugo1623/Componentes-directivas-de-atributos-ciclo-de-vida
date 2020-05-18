@@ -19,7 +19,7 @@ Funcionamiento de ngstyle
   ]
 })
 export class NgStyleComponent implements OnInit {
-  tamano: number = 30;
+  tamano: number = 10;
 
   constructor() { }
 
