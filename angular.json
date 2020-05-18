@@ -24,9 +24,26 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/b4/css/bootstrap.min.css",
+              "src/assets/fontawesome/css/fontawesome.min.css",
+              "src/assets/fontawesome/css/solid.min.css",
+              "src/assets/fontawesome/css/brands.min.css",
+              "src/assets/fontawesome/css/regular.min.css",
+              "src/assets/fontawesome/css/svg-with-js.min.css",
+              "src/assets/fontawesome/css/v4-shims.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/jquery/jquery.slim.min.js",
+              "src/assets/tether/tether.min.js",
+              "src/assets/b4/js/bootstrap.min.js",
+              "src/assets/fontawesome/js/fontawesome.min.js",
+              "src/assets/fontawesome/js/brands.min.js",
+              "src/assets/fontawesome/js/solid.min.js",
+              "src/assets/fontawesome/js/conflict-detection.min.js",
+              "src/assets/fontawesome/js/regular.min.js",
+              "src/assets/fontawesome/js/v4-shims.min.js"
+            ]
           },
           "configurations": {
             "production": {
